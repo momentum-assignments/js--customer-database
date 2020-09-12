@@ -1,4 +1,4 @@
-var usStates = [
+const usStates = [
   { name: 'ALABAMA', abbreviation: 'AL' },
   { name: 'ALASKA', abbreviation: 'AK' },
   { name: 'AMERICAN SAMOA', abbreviation: 'AS' },
