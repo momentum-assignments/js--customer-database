@@ -14,4 +14,4 @@ You are welcome to use flexbox, grid, and/or css libraries for styling your site
 
 Your site should look like the following screenshot:
 
-![example screenshot](screenshot.png)
+![example screenshot](customer-db.png)
